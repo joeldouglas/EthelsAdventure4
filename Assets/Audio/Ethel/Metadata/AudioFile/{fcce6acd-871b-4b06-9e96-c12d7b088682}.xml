@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fcce6acd-871b-4b06-9e96-c12d7b088682}">
+		<property name="assetPath">
+			<value>cats/meow/Animals, Cat Domestic, Meow, High, Short 02 SND70241 2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.87824999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5759cf8a-c2eb-4a08-abae-acb336bd4885}</destination>
+		</relationship>
+	</object>
+</objects>

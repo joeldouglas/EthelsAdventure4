@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{337258d4-8cb5-49b4-9c77-525b8ebc0677}">
+		<property name="builtBanksOutputDirectory">
+			<value>../EthelsAdventure4/Assets/Audio/FMOD Build</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{66d0fd99-f01e-4ff5-b7d2-4444a7800220}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{5a4e1eb6-da19-4fb2-a380-3e05e8a6bcd6}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{0c8ab2de-e619-4439-9334-2aa167e5f85f}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{a4bea053-7808-4a07-9f90-0399f072a293}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{fcd68aab-aad4-4854-8dfe-66e629432445}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{a079698c-3972-411b-a1f8-a2bb0085f4c6}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{5759cf8a-c2eb-4a08-abae-acb336bd4885}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{cc10b9d4-caab-499c-ab37-b88ce16ae7be}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{69b65c91-2b42-4b3d-852e-a9e515dea7de}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{1d02bcd8-7ada-40d2-b960-5c11892dc509}</destination>
+		</relationship>
+	</object>
+</objects>

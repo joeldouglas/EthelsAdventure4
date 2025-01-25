@@ -107,9 +107,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{b0cbb66c-a4d6-4d3a-8e15-4fda52df2835}">
-		<property name="volume">
-			<value>-4</value>
-		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -207,7 +204,7 @@
 			<value>87</value>
 		</property>
 		<property name="wetLevel">
-			<value>-14.5</value>
+			<value>-18.5</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{51f71c79-3bf5-4c04-9627-50f990d9c82a}" />

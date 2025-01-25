@@ -102,6 +102,9 @@
 		<property name="length">
 			<value>0.32048958333333333</value>
 		</property>
+		<property name="pitch">
+			<value>2</value>
+		</property>
 		<relationship name="modulators">
 			<destination>{1e4fbebc-d72c-4122-96f4-2157d6772830}</destination>
 		</relationship>
@@ -113,6 +116,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{bdf2639b-f07e-4f87-9487-f93a6a3656e6}">
+		<property name="volume">
+			<value>-3</value>
+		</property>
 		<property name="name">
 			<value>DROP</value>
 		</property>
@@ -151,7 +157,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{c10f53ea-206c-4db7-b14c-6506d9cbe3cb}">
 		<property name="volume">
-			<value>-9</value>
+			<value>-12</value>
 		</property>
 		<property name="name">
 			<value>is_boiling</value>
